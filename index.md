@@ -6,9 +6,13 @@ layout: home
 ## **PENDAHULUAN**
 Halo, selamat datang!
 
-Sebelumnya, silakan kunjungi halaman [Panduan Musixmatch] untuk mengetahui aturan dasar berkontribusi di Musixmatch.
+Ini adalah panduan khusus berkontribusi di Musixmatch dalam bahasa Indonesia yang dirangkum dari arahan yang diberikan oleh spesialis.
 
-Halaman ini berisi panduan lebih mendalam.
+{: .important }
+> PENTING
+>
+> Sebelum melanjutkan, harap membaca terlebih dahulu [Panduan Musixmatch] dari situs resmi Musixmatch.
+
 
 
 [Panduan Musixmatch] : https://community.musixmatch.com/guidelines?lng=id
