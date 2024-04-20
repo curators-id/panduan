@@ -6,3 +6,8 @@ url: https://curators-id.github.io/panduan
 
 aux_links:
   Template Repository: https://github.com/curators-id/panduan
+
+callouts:
+  important:
+    title: Warning
+    color: yellow
