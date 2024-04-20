@@ -1,4 +1,4 @@
-title: Kurator Indonesia Musixmatch
+title: Panduan Musixmatch (Indonesia)
 description: Catatan untuk kurator Indonesia
 theme: just-the-docs
 
@@ -9,5 +9,4 @@ aux_links:
 
 callouts:
   important:
-    title: Warning
     color: yellow
